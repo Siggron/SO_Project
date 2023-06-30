@@ -13,3 +13,5 @@ The main focus of the project is on concurrent programming, and the topics cover
 4. Anonymous pipes
 5. Named pipes
 6. File descriptor redirection
+
+* Final Grade: 16.45/20
